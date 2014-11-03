@@ -81,8 +81,8 @@ Full Documentation
 ==================
 
 The full documentation is hosted on readthedocs.org:
-`http://compositeframework.readthedocs.org
-<http://compositeframework.readthedocs.org>`_
+`http://composite-framework.readthedocs.org
+<http://composite-framework.readthedocs.org>`_
 
 ----
 
