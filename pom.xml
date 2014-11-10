@@ -240,10 +240,10 @@
                 <environment>local</environment>
                 <warName>composite-${environment}</warName>
                 <log.level>DEBUG</log.level>
-                <couchdb.host>localhost</couchdb.host>
+                <couchdb.host>COUCHDB_HOST</couchdb.host>
                 <couchdb.username>admin</couchdb.username>
                 <couchdb.password>password</couchdb.password>
-                <rabbitmq.host>localhost</rabbitmq.host>
+                <rabbitmq.host>RABBITMQ_HOST</rabbitmq.host>
                 <rabbitmq.clientLogin>admin</rabbitmq.clientLogin>
                 <rabbitmq.clientPasscode>password</rabbitmq.clientPasscode>
                 <rabbitmq.systemLogin>admin</rabbitmq.systemLogin>
