@@ -1,4 +1,3 @@
-
 package com.wk.lodge.composite.config;
 
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,3 @@
-
 package com.wk.lodge.composite.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;

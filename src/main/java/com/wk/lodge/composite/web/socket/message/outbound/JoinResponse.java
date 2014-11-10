@@ -1,4 +1,3 @@
-
 package com.wk.lodge.composite.web.socket.message.outbound;
 
 import com.wk.lodge.composite.model.Device;

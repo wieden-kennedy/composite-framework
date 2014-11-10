@@ -1,4 +1,3 @@
-
 package com.wk.lodge.composite.model;
 
 import java.util.UUID;

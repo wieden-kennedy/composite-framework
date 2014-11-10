@@ -1,4 +1,3 @@
-
 package com.wk.lodge.composite.config;
 
 import com.wk.lodge.composite.registry.DeviceRegistry;

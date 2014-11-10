@@ -1,4 +1,3 @@
-
 package com.wk.lodge.composite.registry;
 
 import org.apache.commons.logging.Log;

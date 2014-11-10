@@ -1,4 +1,3 @@
-
 package com.wk.lodge.composite.web.socket.server.support;
 
 import java.security.Principal;

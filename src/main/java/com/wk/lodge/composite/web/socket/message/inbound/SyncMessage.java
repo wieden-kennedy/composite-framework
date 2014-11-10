@@ -1,5 +1,3 @@
-
-
 package com.wk.lodge.composite.web.socket.message.inbound;
 
 import com.fasterxml.jackson.annotation.JsonCreator;

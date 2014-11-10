@@ -1,4 +1,3 @@
-
 package com.wk.lodge.composite.web.socket.message.outbound;
 
 public class DataResponse extends BeanResponse {
