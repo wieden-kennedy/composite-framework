@@ -240,6 +240,7 @@
                 <environment>local</environment>
                 <warName>composite-${environment}</warName>
                 <log.level>DEBUG</log.level>
+                <allowed.origins>*</allowed.origins>
                 <couchdb.host>COUCHDB_HOST</couchdb.host>
                 <couchdb.username>admin</couchdb.username>
                 <couchdb.password>password</couchdb.password>
@@ -256,6 +257,7 @@
                 <environment>dev</environment>
                 <warName>composite-${environment}-${maven.build.timestamp}</warName>
                 <log.level>DEBUG</log.level>
+                <allowed.origins>ALLOWED_ORIGINS</allowed.origins>
                 <couchdb.host>COUCHDB_HOST</couchdb.host>
                 <couchdb.username>COUCHDB_USERNAME</couchdb.username>
                 <couchdb.password>COUCHDB_PASSCODE</couchdb.password>
@@ -270,6 +272,7 @@
             <id>prod</id>
             <properties>
                 <environment>prod</environment>
+                <allowed.origins>ALLOWED_ORIGINS</allowed.origins>
                 <warName>composite-${environment}-${maven.build.timestamp}</warName>
                 <log.level>ERROR</log.level>
                 <couchdb.host>COUCHDB_HOST</couchdb.host>
